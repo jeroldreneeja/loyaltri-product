@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="Testcases_Masters.Testcases">
+        <methods>
+          <include name="reportflush"/>
+          <include name="close"/>
+          <include name="report"/>
+          <include name="main"/>
+          <include name="eventlist"/>
+        </methods>
+      </class> <!-- Testcases_Masters.Testcases -->
+      <class name="Organization_Setup.Department">
+        <methods>
+          <include name="DepartmentTest"/>
+          <include name="main"/>
+          <include name="report"/>
+          <include name="reportflush"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- Organization_Setup.Department -->
+      <class name="Testcases_Masters.Country">
+        <methods>
+          <include name="main"/>
+          <include name="eventlist"/>
+          <include name="close"/>
+          <include name="reportflush"/>
+          <include name="report"/>
+        </methods>
+      </class> <!-- Testcases_Masters.Country -->
+      <class name="Testcases_Masters.MastersTest">
+        <methods>
+          <include name="reportflush"/>
+        </methods>
+      </class> <!-- Testcases_Masters.MastersTest -->
+      <class name="Testcases_Masters.DocumentTypes">
+        <methods>
+          <include name="reportflush"/>
+        </methods>
+      </class> <!-- Testcases_Masters.DocumentTypes -->
+      <class name="Organization_Setup.Location">
+        <methods>
+          <include name="close"/>
+          <include name="main"/>
+          <include name="LocationTest"/>
+          <include name="report"/>
+          <include name="reportflush"/>
+        </methods>
+      </class> <!-- Organization_Setup.Location -->
+      <class name="Company.AllEmployees">
+        <methods>
+          <include name="main"/>
+          <include name="DocumentTypeTest"/>
+          <include name="report"/>
+          <include name="close"/>
+          <include name="reportflush"/>
+        </methods>
+      </class> <!-- Company.AllEmployees -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Test] -->
