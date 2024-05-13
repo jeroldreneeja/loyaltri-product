@@ -8,8 +8,8 @@
           <include name="main"/>
           <include name="DocumentTypeTest"/>
           <include name="report"/>
-          <include name="close"/>
           <include name="reportflush"/>
+          <include name="close"/>
         </methods>
       </class> <!-- Company.AllEmployees -->
     </classes>

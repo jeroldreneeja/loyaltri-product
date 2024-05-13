@@ -7,8 +7,8 @@
         <methods>
           <include name="reportflush"/>
           <include name="close"/>
-          <include name="report"/>
           <include name="main"/>
+          <include name="report"/>
           <include name="eventlist"/>
         </methods>
       </class> <!-- Testcases_Masters.Testcases -->

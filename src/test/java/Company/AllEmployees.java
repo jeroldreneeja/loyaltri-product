@@ -151,7 +151,7 @@ public class AllEmployees extends CommonFunctions{
 		}else {
 			test.fail("Same as communication address functionality failed",MediaEntityBuilder.createScreenCaptureFromPath(takeScreenshot(driver,screenShot)).build());
 		}
-		String actStateName=CompanyObj.stateListBox1.getText();
+		String actStateName=CompanyObj.stateListBox1.getText(); 
 		System.out.println(actStateName);
 		if(actStateName.equals(properties.getProperty("State"))){
 			test.pass("State name in commaunication address is displayed.");
@@ -219,7 +219,8 @@ public class AllEmployees extends CommonFunctions{
 		CompanyObj.shiftscheme.sendKeys(Keys.ENTER);
 		test.pass("Shift Scheme is selected");
 		
-		
+		CompanyObj.saveButton.click();
+		test.pass("Save & Continue button is clicked.");
 		
 	}
 

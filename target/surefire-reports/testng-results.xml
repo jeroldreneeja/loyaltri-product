@@ -2,42 +2,42 @@
 <testng-results ignored="2" total="5" passed="2" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-05-04T16:18:00 IST" name="Surefire suite" finished-at="2024-05-04T16:18:19 IST" duration-ms="18565">
+  <suite started-at="2024-05-13T14:40:52 IST" name="Surefire suite" finished-at="2024-05-13T14:41:11 IST" duration-ms="18520">
     <groups>
     </groups>
-    <test started-at="2024-05-04T16:18:00 IST" name="Surefire test" finished-at="2024-05-04T16:18:19 IST" duration-ms="18565">
+    <test started-at="2024-05-13T14:40:52 IST" name="Surefire test" finished-at="2024-05-13T14:41:11 IST" duration-ms="18520">
       <class name="Testcases_Masters.MastersTest">
-        <test-method is-config="true" signature="report()[pri:0, instance:Testcases_Masters.MastersTest@55a1c291]" started-at="2024-05-04T16:18:00 IST" name="report" finished-at="2024-05-04T16:18:00 IST" duration-ms="250" status="PASS">
+        <test-method is-config="true" signature="report()[pri:0, instance:Testcases_Masters.MastersTest@4c6e276e]" started-at="2024-05-13T14:40:52 IST" name="report" finished-at="2024-05-13T14:40:52 IST" duration-ms="264" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- report -->
-        <test-method is-config="true" signature="main()[pri:0, instance:Testcases_Masters.MastersTest@55a1c291]" started-at="2024-05-04T16:18:00 IST" name="main" finished-at="2024-05-04T16:18:08 IST" duration-ms="8068" status="PASS">
+        <test-method is-config="true" signature="main()[pri:0, instance:Testcases_Masters.MastersTest@4c6e276e]" started-at="2024-05-13T14:40:52 IST" name="main" finished-at="2024-05-13T14:41:00 IST" duration-ms="8000" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- main -->
-        <test-method signature="DesignationTest()[pri:1, instance:Testcases_Masters.MastersTest@55a1c291]" started-at="2024-05-04T16:18:08 IST" name="DesignationTest" finished-at="2024-05-04T16:18:08 IST" duration-ms="139" status="PASS">
+        <test-method signature="DesignationTest()[pri:1, instance:Testcases_Masters.MastersTest@4c6e276e]" started-at="2024-05-13T14:41:00 IST" name="DesignationTest" finished-at="2024-05-13T14:41:00 IST" duration-ms="143" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- DesignationTest -->
-        <test-method signature="DocumentTypesTest()[pri:2, instance:Testcases_Masters.MastersTest@55a1c291]" started-at="2024-05-04T16:18:08 IST" name="DocumentTypesTest" finished-at="2024-05-04T16:18:08 IST" duration-ms="117" status="PASS">
+        <test-method signature="DocumentTypesTest()[pri:2, instance:Testcases_Masters.MastersTest@4c6e276e]" started-at="2024-05-13T14:41:00 IST" name="DocumentTypesTest" finished-at="2024-05-13T14:41:01 IST" duration-ms="107" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- DocumentTypesTest -->
-        <test-method is-config="true" signature="close()[pri:0, instance:Testcases_Masters.MastersTest@55a1c291]" started-at="2024-05-04T16:18:19 IST" name="close" finished-at="2024-05-04T16:18:19 IST" duration-ms="79" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:Testcases_Masters.MastersTest@4c6e276e]" started-at="2024-05-13T14:41:11 IST" name="close" finished-at="2024-05-13T14:41:11 IST" duration-ms="115" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
-        <test-method is-config="true" signature="reportflush()[pri:0, instance:Testcases_Masters.MastersTest@55a1c291]" started-at="2024-05-04T16:18:19 IST" name="reportflush" finished-at="2024-05-04T16:18:19 IST" duration-ms="307" status="PASS">
+        <test-method is-config="true" signature="reportflush()[pri:0, instance:Testcases_Masters.MastersTest@4c6e276e]" started-at="2024-05-13T14:41:11 IST" name="reportflush" finished-at="2024-05-13T14:41:11 IST" duration-ms="365" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reportflush -->
       </class> <!-- Testcases_Masters.MastersTest -->
       <class name="Testcases_Masters.Testcases">
-        <test-method is-config="true" signature="report()[pri:0, instance:Testcases_Masters.Testcases@7d68ef40]" started-at="2024-05-04T16:18:00 IST" name="report" finished-at="2024-05-04T16:18:00 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="report()[pri:0, instance:Testcases_Masters.Testcases@40e6dfe1]" started-at="2024-05-13T14:40:52 IST" name="report" finished-at="2024-05-13T14:40:52 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- report -->
-        <test-method signature="eventlist()[pri:1, instance:Testcases_Masters.Testcases@7d68ef40]" started-at="2024-05-04T16:18:08 IST" name="eventlist" finished-at="2024-05-04T16:18:19 IST" duration-ms="10128" status="FAIL">
+        <test-method signature="eventlist()[pri:1, instance:Testcases_Masters.Testcases@40e6dfe1]" started-at="2024-05-13T14:41:01 IST" name="eventlist" finished-at="2024-05-13T14:41:11 IST" duration-ms="10121" status="FAIL">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
               <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"(//a[@class='2xl:text-sm text-[10px] dark:text-white'])[10]"}
@@ -46,9 +46,9 @@ For documentation on this error, please visit: https://www.selenium.dev/document
 Build info: version: '4.16.1', revision: '9b4c83354e'
 System info: os.name: 'Linux', os.arch: 'amd64', os.version: '5.15.0-105-generic', java.version: '17.0.10'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [4c3498027a08fc1afabdadb4e401423b, findElement {using=xpath, value=(//a[@class='2xl:text-sm text-[10px] dark:text-white'])[10]}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.184, chrome: {chromedriverVersion: 121.0.6167.184 (057a8ae7deb..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:45553}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:45553/devtoo..., se:cdpVersion: 121.0.6167.184, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 4c3498027a08fc1afabdadb4e401423b]]>
+Command: [7a22f4dec819b16a77efa85f3314c5eb, findElement {using=xpath, value=(//a[@class='2xl:text-sm text-[10px] dark:text-white'])[10]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.184, chrome: {chromedriverVersion: 121.0.6167.184 (057a8ae7deb..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:38535}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:38535/devtoo..., se:cdpVersion: 121.0.6167.184, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7a22f4dec819b16a77efa85f3314c5eb]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//a[@class='2xl:text-sm text-[10px] dark:text-white'])[10]"}
@@ -57,9 +57,9 @@ For documentation on this error, please visit: https://www.selenium.dev/document
 Build info: version: '4.16.1', revision: '9b4c83354e'
 System info: os.name: 'Linux', os.arch: 'amd64', os.version: '5.15.0-105-generic', java.version: '17.0.10'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [4c3498027a08fc1afabdadb4e401423b, findElement {using=xpath, value=(//a[@class='2xl:text-sm text-[10px] dark:text-white'])[10]}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.184, chrome: {chromedriverVersion: 121.0.6167.184 (057a8ae7deb..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:45553}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:45553/devtoo..., se:cdpVersion: 121.0.6167.184, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 4c3498027a08fc1afabdadb4e401423b
+Command: [7a22f4dec819b16a77efa85f3314c5eb, findElement {using=xpath, value=(//a[@class='2xl:text-sm text-[10px] dark:text-white'])[10]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.184, chrome: {chromedriverVersion: 121.0.6167.184 (057a8ae7deb..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:38535}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:38535/devtoo..., se:cdpVersion: 121.0.6167.184, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7a22f4dec819b16a77efa85f3314c5eb
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -118,7 +118,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:121)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- eventlist -->
-        <test-method is-config="true" signature="reportflush()[pri:0, instance:Testcases_Masters.Testcases@7d68ef40]" started-at="2024-05-04T16:18:19 IST" name="reportflush" finished-at="2024-05-04T16:18:19 IST" duration-ms="20" status="PASS">
+        <test-method is-config="true" signature="reportflush()[pri:0, instance:Testcases_Masters.Testcases@40e6dfe1]" started-at="2024-05-13T14:41:11 IST" name="reportflush" finished-at="2024-05-13T14:41:11 IST" duration-ms="24" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reportflush -->

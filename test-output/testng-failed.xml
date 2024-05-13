@@ -1,22 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Loyaltri]" guice-stage="DEVELOPMENT">
-  <test thread-count="5" name="Loyaltri(failed)">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Testcases_Masters.Country">
-        <methods>
-          <include name="main"/>
-          <include name="eventlist"/>
-          <include name="reportflush"/>
-          <include name="close"/>
-          <include name="report"/>
-        </methods>
-      </class> <!-- Testcases_Masters.Country -->
       <class name="Company.AllEmployees">
         <methods>
+          <include name="main"/>
+          <include name="DocumentTypeTest"/>
+          <include name="report"/>
           <include name="reportflush"/>
+          <include name="close"/>
         </methods>
       </class> <!-- Company.AllEmployees -->
     </classes>
-  </test> <!-- Loyaltri(failed) -->
-</suite> <!-- Failed suite [Loyaltri] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
